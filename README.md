@@ -1,2 +1,2 @@
 # DataSciencePortfolio
-Showcases Data Science Projects Created over last year
+This repository showcases projects completed during my Graduate Program. 
