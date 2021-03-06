@@ -22,8 +22,10 @@ This project focused on understanding and predicting police shootings in the Uni
 This project used time series analysis, text mining, and DBSCAN clustering to examine UFO Sightings across the United States.
 
 # Project Six: Airbnb in New York City
+This project focused on identifying and predicting trends in Airbnb rentals in New York City. Areas of focus were proximity to public transport, landmarks and attractions, as well as neighborhood. This could be useful for identifying areas for new rental properties and urban planning for new public transit routes.
 
 # Project Seven: World Happiness Report
+This project focused on examining factors that influence happiness around the world. This project was the first full analysis project that I completed. It included exploratory analysis, data visualization, model building, prediction, and interpretation.
 
 # Project Eight: Bike Shares in Urban London
 For this project, the goal was to understand and predict bike shares within London based on a variety of factors. This could be useful in understanding where to invest in infrastructre and alternate transportation within urban areas.
