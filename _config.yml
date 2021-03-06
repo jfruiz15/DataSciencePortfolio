@@ -25,7 +25,7 @@ search: false
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-machine
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 50 # amount of posts to show
