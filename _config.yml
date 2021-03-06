@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: Hello World!
 description: This site serves as an evolving body of work for my projects. It includes presentations, reporting, and evaluation of each project. Please feel free to bookmark this page to stay up to date on my latest projects.
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+
