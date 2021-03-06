@@ -1,3 +1,10 @@
+---
+permalink: /Projects/
+title: "Projects"
+header:
+    image: /assets/brain.jpg
+---
+
 ## Current Project: Improving Breast Cancer Outcomes through Tumor Analysis
 For this project, I am examining tumor characteristics that signify malignancy. I utilized random forest model, PCA, and Gradient Boosting Machine. I was able to achieve 98% model accuracy on the Gradient Boosting Machine model and a 97% percent accuracy on the PCA with RF model.
 
