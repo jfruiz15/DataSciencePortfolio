@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jennifer Ruiz</title>
+    <link>https://jfruiz15.github.io/DataSciencePortfolio/post/</link>
+    <description>Recent content in Projects on Jennifer Ruiz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jan 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://jfruiz15.github.io/DataSciencePortfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 10: Tumor Malignancy</title>
+      <link>https://jfruiz15.github.io/DataSciencePortfolio/post/project-10/</link>
+      <pubDate>Sat, 20 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://jfruiz15.github.io/DataSciencePortfolio/post/project-10/</guid>
+      <description>For this project, I am examining tumor characteristics that signify malignancy. I utilized random forest model, PCA, and Gradient Boosting Machine. I was able to achieve 98% model accuracy on the Gradient Boosting Machine model and a 97% percent accuracy on the PCA with RF model.</description>
+    </item>
+    
+    <item>
+      <title>Project 9: Examining Mental Health Care Impact on Suicide Rates</title>
+      <link>https://jfruiz15.github.io/DataSciencePortfolio/post/project-9/</link>
+      <pubDate>Sun, 07 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://jfruiz15.github.io/DataSciencePortfolio/post/project-9/</guid>
+      <description>For this project, I examined the how the availability and quality of mental health services effect suicide rates. Country specific data relating to suicide rates, availability of care facilities, and staff availability are all considered. This could be useful for expanding mental health services availability and determining areas of highest need within the field.</description>
+    </item>
+    
+    <item>
+      <title>Project 8: Cardiovascular Health</title>
+      <link>https://jfruiz15.github.io/DataSciencePortfolio/post/project-8/</link>
+      <pubDate>Thu, 07 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://jfruiz15.github.io/DataSciencePortfolio/post/project-8/</guid>
+      <description>For this project, I utilized a random forest classifier and logistic regression model to explore factors indicated as high risk for cardiovascular disease. This could be useful for patient education and improving outcomes for patients with one or more risk factors for the disease. I was able to obtain 94% accuracy for the logistic regression model after minimal model tuning. Extensive exploratory analysis was also performed as part of this project.</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Different Way To Present Data</title>
+      <link>https://https://jfruiz15.github.io/DataSciencePortfolio/post/project-7/</link>
+      <pubDate>Fri, 30 Oct 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://jfruiz15.github.io/DataSciencePortfolio/post/project-7/</guid>
+      <description>This Project contains all data and different analytic approaches that can be used to look at a problem. The Project was to create a dashboard, PowerPoint, Blog post, infographic, and finally tie it together with a video presentation. This was my first interaction with a blog and an infographic; both were very informative in understanding how to publicize a project. The data was pulled from the Nation Highway and Safety Board as well as the FAA.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: A Data Science Project Start to Finish</title>
+      <link>https://jfruiz15.github.io/DataSciencePortfolio/post/project-6/</link>
+      <pubDate>Tue, 21 Jul 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://jfruiz15.github.io/DataSciencePortfolio//post/project-6/</guid>
+      <description>This project aims to predict police shootings in the United States. Police shootings are a hot button topic in the United States as their frequency increases year over year. By examining data provided by the FBI, the project team will provide insights into factors contributing to these shootings that may aid in reducing their numbers.
+The project&amp;rsquo;s main goal was to determine if the fatal shooting could be predicted based on race, age, or signs of mental illness.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: UFO Sightings across the United States</title>
+      <link>https://jfruiz15.github.io/DataSciencePortfolio/post/project-5/</link>
+      <pubDate>Mon, 20 Jul 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://jfruiz15.github.io/DataSciencePortfolio/post/project-5/</guid>
+      <description>This project used time series analysis, text mining, and DBSCAN clustering to examine UFO Sightings across the United States.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Airbnb in New York City</title>
+      <link>https://jfruiz15.github.io/DataSciencePortfolio/post/project-4/</link>
+      <pubDate>Thu, 16 Apr 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://jfruiz15.github.io/DataSciencePortfolio/post/project-4/</guid>
+      <description>The main goal of this project was to examine trends in Airbnb rentals across New York City. Factors considered included access to public transportation, proximity to landmarks and attractions, and number of days rented annually.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: World Happiness Report</title>
+      <link>https://jfruiz15.github.io/DataSciencePortfolio/post/project-3/</link>
+      <pubDate>Wed, 15 Apr 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://jfruiz15.github.io/DataSciencePortfolio/post/project-3/</guid>
+      <description> For this project, I utilized linear regression models to predict world happiness based on country specific factors. This project included extensive EDA and data visualization. Link to Github Repository.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Bike Shares in Urban London</title>
+      <link>https://jfruiz15.github.io/DataSciencePortfolio/post/project-2/</link>
+      <pubDate>Mon, 13 Jan 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://jfruiz15.github.io/DataSciencePortfolio//post/project-2/</guid>
+      <description>The goal of this project was to become proficient coding in R. For this project, the goal was to understand and predict bike shares within London based on a variety of factors. This could be useful in understanding where to invest in infrastructre and alternate transportation within urban areas.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Creating a simple application</title>
+      <link>https://jfruiz15.github.io/DataSciencePortfolio/post/project-1/</link>
+      <pubDate>Fri, 10 Jan 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://jfruiz15.github.io/DataSciencePortfolio/post/project-1/</guid>
+      <description>This projects aim was to create a weather application by coding within the Python programing language. The application takes in either a location by text or zip code to provide the weather on that location. The application uses an API key from the openweather.org site to provide the results. Link to Github Repository.</description>
+    </item>
+    
+  </channel>
+</rss>
