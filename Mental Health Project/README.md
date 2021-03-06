@@ -1,0 +1,1 @@
+For this project, I examined the how the availability and quality of mental health services effect suicide rates. Country specific data relating to suicide rates, availability of care facilities, and staff availability are all considered. This could be useful for expanding mental health services availability and determining areas of highest need within the field.
