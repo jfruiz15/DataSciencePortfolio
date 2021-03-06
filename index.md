@@ -1,4 +1,3 @@
-Jennifer's  Portfolio
 This is an evolving body of work that showcases recently completed projects and will serve as home to future projects. 
 
 
