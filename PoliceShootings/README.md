@@ -1,0 +1,1 @@
+This project focused on understanding and predicting police shootings in the United States. Used K-Modes Clustering and Regression Analysis to understand key factors that influence shootings. Factors such as mental health, possession of a weapon, and race of assailant were considered in this analysis. This could be useful in de-escalation education and training.
