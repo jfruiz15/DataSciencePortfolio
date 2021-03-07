@@ -1,0 +1,1 @@
+For this project, the goal was to understand and predict bike shares within London based on a variety of factors. This could be useful in understanding where to invest in infrastructre and alternate transportation within urban areas.
