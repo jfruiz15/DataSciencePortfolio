@@ -1,0 +1,60 @@
+#DSC 510 Final Project
+#Jennifer Ruiz
+#25 February 2020
+#This program will display current weather data based on user input of zipcode or city name
+
+import requests
+
+API_key = "fe78b110f71b7443f5e90eaae0fc96e6"
+base_url = 'http://api.openweathermap.org/data/2.5/weather?'
+
+print('Welcome to Weather Program')
+print('Instructions: Please enter either a zip code or city name to get weather details. The zip code should be entered as <zipcode>. i.e 32811')
+
+def zip_code_search(zip_code): #zip code search function
+    zip_code = input('Please enter zip code:')
+    request_weather = requests.get(base_url + '&zip=' + zip_code + '&unit=imperial' + '&appid=' + API_key)
+    if request_weather.status_code == 200:
+        print('Connection Successful') #displays if connection was successful or not
+    else:
+        print('Connection Error',request_weather.status_code)
+    data1 = request_weather.json()
+    temp= data1['main']['temp']
+    high = data1['main']['temp_max']
+    low= data1['main']['temp_min']
+    description = data1['main'][0]['description']
+    print('Current temperature is', temp, 'Degrees Fahrenheit')
+    print('The high today will be', high, 'Degrees Fahrenheit')
+    print('The low today will be', low, 'Degrees Fahrenheit')
+    print('Current Conditions are', description)
+
+def city_search(city_name): #city search function
+    city_name = input('Please enter city name:')
+    weather_request = requests.get(base_url + "appid=" + API_key + "&q=" + city_name)
+    if weather_request.status_code == 200:
+        print ('Connection Successful')
+    else:
+        print ('Connection Error', weather_request.status_code)
+    data2 = weather_request.json()
+    temp= data2['main']['temp']
+    high = data2['main']['temp_max']
+    low= data2['main']['temp_min']
+    description = data2['main'][0]['description']
+    print('Current temperature is', temp, 'Degrees Fahrenheit')
+    print('The high today will be', high, 'Degrees Fahrenheit')
+    print('The low today will be', low, 'Degrees Fahrenheit')
+    print('Current Conditions are', description)
+
+def main():
+    while True:
+        response = input('Please enter 1 to search weather by zip code or 2 to search by city name. Enter q to quit.')
+        if response == 'q':
+            break
+    if response == '1':
+        zip_code_search(zip_code)
+    elif response == '2':
+            city_search(city_name)
+    else:
+        print('Thank you for using Weather Program')
+
+main()
