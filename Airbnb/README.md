@@ -1,0 +1,1 @@
+This project focused on identifying and predicting trends in Airbnb rentals in New York City. Areas of focus were proximity to public transport, landmarks and attractions, as well as neighborhood. This could be useful for identifying areas for new rental properties and urban planning for new public transit routes.
